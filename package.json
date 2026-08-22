@@ -6,11 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshaythakur9968/RESTAPI-methods-.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Akshaythakur9968/RESTAPI-methods-/issues"
+  },
+  "homepage": "https://github.com/Akshaythakur9968/RESTAPI-methods-#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongoose": "^9.9.3"
   }
 }
